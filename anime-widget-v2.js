@@ -1,4 +1,4 @@
-var CARDS_DESKTOP=3, CARDS_MOBILE=2;
+var CARDS_DESKTOP=4, CARDS_MOBILE=2;
 var LATEST_LIMIT=10; // shudhu latest 10 ta post niye carousel cholbe
 var RANKS=["SSS","SS","S","A","B","C","D","E","F","G"];
 var ORDER={SSS:10,SS:9,S:8,A:7,B:6,C:5,D:4,E:3,F:2,G:1};
